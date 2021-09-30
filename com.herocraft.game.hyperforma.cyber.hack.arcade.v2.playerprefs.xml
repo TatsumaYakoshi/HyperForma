@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="Currentpart" value="0" />
+    <int name="UnlokcedLevel" value="999999999" />
+    <string name="EM_APP_INSTALLATION_TIMESTAMP">-8585685816566217838</string>
+    <string name="unity.player_session_count">2</string>
+    <int name="AdditionalUpgradesVector" value="0" />
+    <int name="AB_Tutor" value="2" />
+    <int name="Screenmanager%20Resolution%20Height" value="2300" />
+    <int name="UpgradesVector" value="999999999" />
+    <string name="unity.player_sessionid">5276424029762050004</string>
+    <int name="CurrentLevelMap" value="186" />
+    <int name="Discoverie2" value="1" />
+    <int name="Discoverie1" value="1" />
+    <int name="TutorialBalloonPainettu" value="1" />
+    <int name="__UNITY_PLAYERPREFS_VERSION__" value="1" />
+    <int name="QuitTimerSecondsLeft" value="0" />
+    <int name="Screenmanager%20Resolution%20Width" value="1080" />
+    <string name="unity.cloud_userid">69c1476e3ecb73f9bba99d9ba7f8d135</string>
+    <int name="Discoverie0" value="1" />
+    <int name="Screenmanager%20Fullscreen%20mode" value="-1" />
+    <string name="QuitTime">2021%2F09%2F30%2014%3A11%3A21</string>
+    <int name="Additional UpgradesVector" value="999999999" />
+    <int name="TutorialStep" value="17" />
+    <string name="FirstDay">09%2F30%2F2021%2014%3A07%3A10</string>
+</map>
