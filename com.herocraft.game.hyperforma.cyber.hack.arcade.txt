@@ -1,0 +1,77 @@
+[BEGIN]
+
+Hyper Forma Patch:
+
+(Requires ROOT)
+
+Load game at least once before Patching
+
+Features:
+
+Tutorial Completed
+
+All Levels Unlocked
+
+Upgrade Vectors 999M
+
+
+-Made by TatsumaYakoshi
+
+
+https://YouTube.com/TatsumaYakoshi
+
+https://Instagram.com/TatsumaYakoshi
+
+[SHARED-PREFERENCES]
+
+{"file_name":"com.herocraft.game.hyperforma.cyber.hack.arcade.v2.playerprefs.xml"}
+
+{"insert":"int"}
+{"pref_name":"Discoverie2"}
+{"value":"1"}
+
+{"insert":"int"}
+{"pref_name":"Discoverie1"}
+{"value":"1"}
+
+{"insert":"int"}
+{"pref_name":"Discoverie0"}
+{"value":"1"}
+
+{"insert":"int"}
+{"pref_name":"Currentpart"}
+{"value":"0"}
+
+{"insert":"int"}
+{"pref_name":"QuitTimerSecondsLeft"}
+{"value":"0"}
+
+{"insert":"int"}
+{"pref_name":"TutorialStep"}
+{"value":"17"}
+
+{"insert":"int"}
+{"pref_name":"UnlokcedLevel"}
+{"value":"999999999"}
+
+{"insert":"int"}
+{"pref_name":"Additional UpgradesVector"}
+{"value":"999999999"}
+
+{"insert":"int"}
+{"pref_name":"UpgradesVector"}
+{"value":"999999999"}
+
+{"insert":"int"}
+{"pref_name":"CurrentLevelMap"}
+{"value":"186"}
+
+{"insert":"int"}
+{"pref_name":"TutorialBalloonPainettu"}
+{"value":"1"}
+
+{"insert":"int"}
+{"pref_name":"AB_Tutor"}
+{"value":"2"}
+
+[END]
